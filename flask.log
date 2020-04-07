@@ -1,0 +1,23 @@
+2020-04-03 14:40:54,342 INFO root MainThread : Model and vocab loaded
+2020-04-03 14:40:55,359 INFO werkzeug MainThread :  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2020-04-03 14:41:03,479 INFO werkzeug Thread-6 : 127.0.0.1 - - [03/Apr/2020 14:41:03] "[37mPOST /seclassifier HTTP/1.1[0m" 200 -
+2020-04-03 14:41:08,682 INFO werkzeug Thread-7 : 127.0.0.1 - - [03/Apr/2020 14:41:08] "[37mPOST /seclassifier HTTP/1.1[0m" 200 -
+2020-04-03 14:42:42,148 INFO werkzeug Thread-8 : 127.0.0.1 - - [03/Apr/2020 14:42:42] "[37mPOST /seclassifier HTTP/1.1[0m" 200 -
+2020-04-03 15:12:56,526 INFO root MainThread : Model and vocab loaded
+2020-04-03 15:12:56,585 INFO werkzeug MainThread :  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2020-04-03 15:13:01,951 INFO __main__ Thread-9 : Text:Best Tacos in town, mist visit !!!Prediction:5
+2020-04-03 15:13:01,951 INFO werkzeug Thread-9 : 127.0.0.1 - - [03/Apr/2020 15:13:01] "[37mPOST /seclassifier HTTP/1.1[0m" 200 -
+2020-04-03 15:57:22,395 INFO root MainThread : Model and vocab loaded
+2020-04-03 15:57:22,419 INFO werkzeug MainThread :  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2020-04-03 15:58:25,932 INFO werkzeug Thread-10 : 127.0.0.1 - - [03/Apr/2020 15:58:25] "[1m[31mPOST /hcheck HTTP/1.1[0m" 405 -
+2020-04-03 15:59:04,184 INFO werkzeug Thread-11 : 127.0.0.1 - - [03/Apr/2020 15:59:04] "[1m[31mPOST /hcheck HTTP/1.1[0m" 405 -
+2020-04-03 16:42:34,219 INFO werkzeug Thread-12 : 127.0.0.1 - - [03/Apr/2020 16:42:34] "[1m[31mPOST /hcheck HTTP/1.1[0m" 405 -
+2020-04-03 16:42:56,772 INFO root MainThread : Model and vocab loaded
+2020-04-03 16:42:56,783 INFO werkzeug MainThread :  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2020-04-03 16:43:15,291 INFO werkzeug Thread-13 : 127.0.0.1 - - [03/Apr/2020 16:43:15] "[1m[31mPOST /hcheck HTTP/1.1[0m" 405 -
+2020-04-03 16:43:22,185 INFO werkzeug Thread-14 : 127.0.0.1 - - [03/Apr/2020 16:43:22] "[37mGET /hcheck HTTP/1.1[0m" 200 -
+2020-04-04 13:13:06,861 INFO root MainThread : Model and vocab loaded
+2020-04-04 13:13:07,882 INFO werkzeug MainThread :  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2020-04-04 13:15:09,345 INFO __main__ Thread-4 : Text:Best Tacos in town, mist visit !!!Prediction:5
+2020-04-04 13:15:09,350 INFO werkzeug Thread-4 : 127.0.0.1 - - [04/Apr/2020 13:15:09] "[37mPOST /seclassifier HTTP/1.1[0m" 200 -
+2020-04-04 13:15:17,424 INFO werkzeug Thread-5 : 127.0.0.1 - - [04/Apr/2020 13:15:17] "[37mGET /hcheck HTTP/1.1[0m" 200 -
